@@ -1,0 +1,15 @@
+{
+    "version": "0.2.8",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/flyingnobita/llml/releases/download/v0.2.8/llml_0.2.8_Windows_x86_64.zip",
+            "bin": [
+                "llml.exe"
+            ],
+            "hash": "5cf082e7447d31667c671127cd6ce1cd77085856f37d84b9af67a58ad8383613"
+        }
+    },
+    "homepage": "https://github.com/flyingnobita/llml",
+    "license": "MIT",
+    "description": "Terminal UI to discover local models and launch llama-server, vLLM, or Ollama"
+}

@@ -1,12 +1,12 @@
 {
-    "version": "0.2.8",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/flyingnobita/llml/releases/download/v0.2.8/llml_0.2.8_Windows_x86_64.zip",
+            "url": "https://github.com/flyingnobita/llml/releases/download/v0.5.0/llml_0.5.0_Windows_x86_64.zip",
             "bin": [
                 "llml.exe"
             ],
-            "hash": "5cf082e7447d31667c671127cd6ce1cd77085856f37d84b9af67a58ad8383613"
+            "hash": "eb9f227cba80d36d8ca7396ce5ab761c78da52a78fca2ec0c761965826f294b5"
         }
     },
     "homepage": "https://github.com/flyingnobita/llml",
